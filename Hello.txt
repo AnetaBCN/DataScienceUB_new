@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+
 Hello todos me gusta leer y comer croissants
-=======
-Hello todos me gusta leer
-A mi tb
->>>>>>> origin/master
+
